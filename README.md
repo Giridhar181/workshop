@@ -1,0 +1,20 @@
+# Heading1
+## Heading2
+### Heading3
+#### Heading4
+##### Heading5
+###### Heading6
+
+# TEXT STYLES
+## ITALIC TEXT
+*italic data here***
+**Bold data here**
+***Bold and italic***
+
+
+##  bold text
+** computer science students**
+
+#Link Readme File
+
+[Click me]  (www.google.com)
