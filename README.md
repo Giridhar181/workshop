@@ -18,5 +18,5 @@
 #Link Readme Files
 
 [Click me]  (www.google.com)
-# IMGin Readme files
-![Dhoni](Dhoni.jpg)
+# IMG in Readme files
+![Dhoni] (Dhoni.jpg)
