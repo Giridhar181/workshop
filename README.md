@@ -19,4 +19,4 @@
 
 [Click me]  (www.google.com)
 # IMG in Readme files
-![Dhoni2]  ("Dhoni2.JPG")
+![Dhoni2](Dhoni2.JPG)
