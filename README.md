@@ -46,7 +46,7 @@
      3. middle name
 2.   Github
      1. Username
-     2. mail-id
+     2. mail-id 
      3. password
 
 
